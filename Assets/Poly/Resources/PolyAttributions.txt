@@ -1,0 +1,73 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: 1
+Author: Nhơn Hữu
+URL: https://poly.google.com/view/51kU2RnWsdB
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Alien in a purple Spaceship
+Author: Taylor Wilson
+URL: https://poly.google.com/view/7I-jb4l8dT6
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Alien in a red spaceship
+Author: Taylor Wilson
+URL: https://poly.google.com/view/aJNT_-n2Ixn
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: alien in green spaceship
+Author: Taylor Wilson
+URL: https://poly.google.com/view/dQ5itZfc7Bf
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Earth
+Author: Poly by Google
+URL: https://poly.google.com/view/94XG1XUy10q
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Earth
+Author: Poly by Google
+URL: https://poly.google.com/view/88CP80Kgb-u
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: fish alien
+Author: Taylor Wilson
+URL: https://poly.google.com/view/5-q8gLPD0yk
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Jupiter
+Author: Poly by Google
+URL: https://poly.google.com/view/cI_DG84S1NP
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Mars
+Author: Poly by Google
+URL: https://poly.google.com/view/dsrYdi4GZ8U
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Neptune
+Author: Poly by Google
+URL: https://poly.google.com/view/6dOb2Q_w_pM
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Spaceship - Warship
+Author: Jakers_H
+URL: https://poly.google.com/view/2lE6-8XYXDC
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Turret
+Author: Tyler Benson
+URL: https://poly.google.com/view/cYFoyVADqxW
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
